@@ -10,13 +10,13 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: justinZan # add your name
-author-img: justin-zan.jpg # add your photo
+author-img: justin-zan.png # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: justinZan # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email:  1105503089# add your Email address
+social-email:  1105503089@qq.com# add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
