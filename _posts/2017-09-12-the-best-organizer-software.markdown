@@ -1,9 +1,17 @@
+<!--
+ * @Author: zading zading@cisco.com
+ * @Date: 2023-07-18 21:14:21
+ * @LastEditors: zading zading@cisco.com
+ * @LastEditTime: 2023-07-18 22:17:54
+ * @FilePath: /personal/justinZan/_posts/2017-09-12-the-best-organizer-software.markdown
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ---
 layout: post
 title: The Best Organizer Software
-date: 2017-09-12 00:00:00 +0300
+date: 2023-07-18 22:00:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: software.jpg # Add image post (optional)
+# img: software.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
