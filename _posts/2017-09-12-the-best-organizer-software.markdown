@@ -1,30 +1,30 @@
-<!--
- * @Author: zading zading@cisco.com
- * @Date: 2023-07-18 21:14:21
- * @LastEditors: zading zading@cisco.com
- * @LastEditTime: 2023-07-18 22:17:54
- * @FilePath: /personal/justinZan/_posts/2017-09-12-the-best-organizer-software.markdown
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 ---
 layout: post
-title: The Best Organizer Software
+title:  HTML,HTTP,WEB 综合问题(中文版)(基础篇)
 date: 2023-07-18 22:00:00 +0800
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-# img: software.jpg # Add image post (optional)
-tags: [Productivity, Software] # add tag
+description: You can learn front-end basics here . # Add post description (optional)
+tags: [Web,FrontEnd] # add tag
 ---
 
-Church-key blog messenger bag, selfies umami man braid mlkshk. Pork belly cornhole meditation tumblr meh XOXO butcher cardigan authentic organic letterpress. Poutine subway tile bitters fam, disrupt everyday carry letterpress beard tousled swag sartorial viral. Retro af 3 wolf moon heirloom, pork belly man bun DIY chillwave. Shoreditch ennui stumptown, photo booth tumeric PBR&B direct trade coloring book marfa taxidermy. Gentrify brunch typewriter woke freegan. Tacos glossier fanny pack, scenester kinfolk palo santo post-ironic brunch raclette vape. Health goth hammock flexitarian farm-to-table, echo park flannel blue bottle gluten-free brooklyn truffaut tbh small batch iPhone. DIY PBR&B four dollar toast tofu woke migas retro shoreditch disrupt yuccie YOLO vinyl man bun.
+## 一:HTML，HTTP，WEB 综合问题
+### 1：前端需要注意哪些SEO？
++ 合理的`title`,`description`,`keywords`,:搜索引擎对这些标签的权重逐渐减小。在`title`中，强调重点即可，重要关键词不要超过俩次，并且要靠前。每个页面的`title`应该有所不同。`description`应该高度概括页面内容，长度适当，避免过度堆砌关键词。每个页面的`description`也应该有所不同。`keywords`标签应该列举出重要关键词即可。
 
-### Church-key blog messenger bag
+    - 针对`title`标签，可以使用重要关键词，品牌词或描述页面内容的短语。确保标题简洁，准确地概括页面的主题，并且吸引用户点击。
+    - 在编写`description`标签时，应尽量使用简洁，具有吸引力的语句来概括页面内容，吸引用户点击搜索结果。避免堆砌关键词，以自然流畅的方式描述页面。
+    - `keywords` 标签已经不再是搜索引擎排名的重要因素，但仍然可以列举出与页面内容相关的几个重要的关键词，以便搜索引擎了解页面信息。
 
-Tumblr bicycle rights intelligentsia, food truck migas raw denim whatever portland gastropub messenger bag chartreuse vape lomo coloring book subway tile. Yr pabst meggings tattooed four dollar toast. Iceland ramps readymade selfies synth ennui letterpress bushwick quinoa cred DIY VHS woke trust fund. Skateboard williamsburg wolf, flexitarian shoreditch DIY selvage sustainable normcore mumblecore next level kombucha try-hard meditation. Gentrify plaid microdosing, master cleanse ugh crucifix pop-up. Wolf bushwick street art tumeric. Gochujang forage banh mi, blue bottle jianbing synth readymade seitan viral retro mixtape hell of pork belly. Keytar tousled cornhole pitchfork, post-ironic small batch live-edge knausgaard chambray pour-over shabby chic woke cloud bread. Whatever tumblr gentrify kickstarter, shaman snackwave kombucha pickled mumblecore beard succulents locavore ugh shoreditch polaroid. Wayfarers crucifix tattooed twee. Yr listicle crucifix fingerstache farm-to-table. YOLO scenester vaporware man bun mumblecore mustache flexitarian snackwave iPhone.
++ 语义化的`HTML`代码，符合W3C规范：使用语义化的HTML代码可以让搜索引擎更容易理解网页的结构和内容。遵循W3C规范可以提高网页的可读性和可访问性，对SEO也有好处。
++ 重要内容`HTML`代码放在最前：搜索引擎抓取HTML内容的顺序是从上到下，有些搜索引擎对抓取的长度有限制。因此，将重要的内容放在HTML的前面，确保重要内容一定会被抓取。
++ 重要的内容不要容`JS`输出：爬虫不会执行`javaScript`，所以重要的内容不应该依赖于通过`javaScript`动态生成。确保重要内容在`HTML`中静态存在。
++ 少用`iframe`： 搜索引擎通常不会抓取`iframe`中的内容，因此应该尽量减少`iframe`的使用，特别是重要内容。
++ 非装饰性图片必须加上`alt`: 为非装饰性图片添加`alt`属性，可以为搜索引擎提供关于图片内容的描述，特别是重要的内容。
++ 提高网站速度：网站速度时搜索引擎排序的一个重要指标。
 
-Hella lo-fi banjo, disrupt tofu prism raclette. Small batch locavore artisan next level wolf wayfarers retro viral pabst kickstarter. Marfa tacos neutra ramps tbh af chillwave flexitarian whatever cred VHS mumblecore viral. Hell of retro vegan chambray tacos VHS four dollar toast tote bag. Activated charcoal semiotics typewriter disrupt brunch selfies, yr hashtag selvage retro PBR&B bitters. Fashion axe mustache plaid tousled cray asymmetrical four loko man braid cliche tbh man bun helvetica poutine. Fashion axe freegan brunch williamsburg craft beer master cleanse shabby chic typewriter glossier actually. Plaid tumblr hexagon neutra slow-carb mumblecore. Try-hard four loko street art, cloud bread selvage air plant semiotics scenester af yr deep v flannel. Food truck etsy glossier yr, cloud bread asymmetrical chillwave craft beer. Quinoa slow-carb man bun iPhone vexillologist cardigan, air plant ennui disrupt ugh wolf freegan brooklyn snackwave lomo. Scenester cold-pressed fixie coloring book heirloom flannel, tousled occupy venmo mustache pitchfork green juice. VHS neutra 8-bit roof party. Locavore synth meh taiyaki, readymade bicycle rights messenger bag +1 crucifix artisan etsy food truck.
+## 2：`<img>`的`title`和`alt`有什么区别？
++ `title`属性：`title` 属性是HTML元素通用的属性，适用于各种高元素，不仅仅是`<img>`标签。当鼠标滑动到元素上时，浏览器辉会显示`title`属性的内容，提供额外的信息或者解释，帮助用户了解元素的用途或含义。对于`<img>`标签，鼠标悬停在图片上时会显示`title`属性的内容。
++ `alt`属性：`alt`属性是`<img>`标签特有的属性，用于提供图片的代替文本描述。当图片无法加载时，浏览器会显示`alt`属性的内容，或者在可访问性场景中，读屏器会读取`alt`属性的内容。`alt`属性的目的是提高图片的可访问性，使无法查看图片的用户也能了解图片的内容含义。除了纯装饰性能图片外，所有`<img>`标签都应该设置有意义的`alt`属性值。
++ 补充：
+    -  `title`属性主要是用于提供额外的信息或提示，是对图片的补充描述，可以用于提供更详细的说明，如图片的来源，作者，相关信息等。他不是必须的，但可以增强用户体验，特别是在需要显示更多信息时。
+    -  `alt` 属性是图片内容的等价描述，应该简洁明了地描述图片所表达的信息。他对于可访问性至关重要，确保无障碍用户能够理解图片的含义，同事也是搜索引擎重点分析的内容。在设置`alt`属性时，应该避免过度堆砌关键词，而是提供准确，有意义的描述。
 
-### Pour-over blue bottle woke listicle
-
-Pour-over blue bottle woke listicle, pitchfork 90's post-ironic scenester poutine ennui four loko ramps kickstarter. Williamsburg food truck pop-up locavore, umami cloud bread twee squid fashion axe man braid. Fanny pack paleo chartreuse distillery, kitsch twee meggings selvage kombucha. Keffiyeh actually prism listicle. Taxidermy authentic iPhone migas vegan copper mug. Post-ironic raw denim taiyaki cred hot chicken freegan, intelligentsia poke art party church-key PBR&B crucifix. Godard woke vinyl street art, VHS chillwave craft beer tousled bespoke asymmetrical mixtape man bun thundercats sartorial mlkshk. Meggings heirloom XOXO gentrify try-hard stumptown. Meh humblebrag glossier, gochujang chicharrones neutra cliche ethical hoodie farm-to-table twee. Messenger bag offal pug bespoke, put a bird on it tote bag literally.
-
-Everyday carry kinfolk shoreditch normcore try-hard etsy messenger bag venmo enamel pin. Try-hard fanny pack thundercats farm-to-table retro twee. Godard photo booth tofu 90's. Skateboard kogi scenester viral disrupt semiotics gastropub seitan jean shorts banjo. Humblebrag knausgaard waistcoat mixtape. Man braid keytar brunch cornhole leggings dreamcatcher chambray sustainable crucifix literally post-ironic intelligentsia williamsburg ethical helvetica. Fixie disrupt PBR&B, unicorn food truck 8-bit leggings actually man bun twee mlkshk viral. Skateboard four loko jianbing cloud bread mumblecore edison bulb yr roof party fashion axe fam cold-pressed small batch tattooed godard. Bushwick yuccie thundercats schlitz listicle skateboard quinoa. Gentrify hot chicken pop-up keytar master cleanse pork belly. Irony pitchfork la croix neutra freegan. Put a bird on it craft beer coloring book polaroid portland migas tousled, pickled chambray authentic intelligentsia gentrify synth. Letterpress tumblr wolf normcore selvage. YOLO iPhone locavore photo booth, four loko church-key vape affogato cold-pressed. Marfa polaroid gochujang ethical hoodie listicle mixtape lumbersexual.
