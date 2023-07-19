@@ -5,6 +5,9 @@ date: 2023-07-18 22:00:00 +0800
 description: You can learn front-end basics here . # Add post description (optional)
 tags: [Web,FrontEnd] # add tag
 ---
+知识点：
+> 前端需要注意哪些SEO？</br>
+> `<img>`的`title`和`alt`有什么区别？
 
 ## 一:HTML，HTTP，WEB 综合问题
 ### 1：前端需要注意哪些SEO？
