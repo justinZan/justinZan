@@ -4,8 +4,9 @@ title:  一份不错的vue前端代码风格指南
 date: 2023-08-06 22:00:00 +0800
 description: You can learn front-end basics here . # Add post description (optional)
 img: vue.png # Add image post (optional)
-tags: [Web,FrontEnd] # add tag
+tags: [Vue,Project] # add tag
 ---
+
 
 ## 命名规范
 
