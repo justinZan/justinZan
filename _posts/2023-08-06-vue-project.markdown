@@ -34,7 +34,7 @@ tags: [Vue,Project] # add tag
 ### 1.2 文件目录名
 
 **参照项目命名规则，有复数结构时，要采用复数命名法**。例如：docs，assets，components，directives，mixins，utils，views。
-```` JavaScript
+````
 my-project-name
 |- BuildScript // 流水线部署文件目录
 |- docs //项目的细化文档目录 （可选）
