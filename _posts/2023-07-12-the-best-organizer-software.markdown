@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  HTML,HTTP,WEB 综合问题(中文版)(基础篇)
-date: 2023-07-18 22:00:00 +0800
+date: 2023-07-1 22:00:00 +0800
 description: You can learn front-end basics here . # Add post description (optional)
 img: apple-touch-icon-144x144.png # Add image post (optional)
 tags: [Web,FrontEnd] # add tag
