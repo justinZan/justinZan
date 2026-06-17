@@ -9,8 +9,6 @@ Building scalable web applications, reusable component systems and modern develo
   <img src="https://komarev.com/ghpvc/?username=justinZan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-⸻
-
 👨‍💻 About Me
 
 Frontend Engineer focused on building scalable frontend applications and reusable component systems.
@@ -21,15 +19,11 @@ Frontend Engineer focused on building scalable frontend applications and reusabl
 * 🤖 Learning AI-powered Development and Automation
 * 🌱 Passionate about clean code and developer experience
 
-⸻
-
 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,vue,html,css,sass,vite,webpack,nodejs,git,vscode" />
 </p>
-
-⸻
 
 📈 GitHub Stats
 
@@ -41,8 +35,6 @@ Frontend Engineer focused on building scalable frontend applications and reusabl
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinZan&theme=tokyonight&hide_border=true" />
 </p>
 
-⸻
-
 🌟 Featured Projects
 
 Project	Description	Tech
@@ -50,9 +42,7 @@ Gauge Chart	Gauge chart component	TypeScript · ChartJS
 Vue Violet Seed	Vue starter template	Vue · SCSS
 Web Component For Study	Lit playground	Lit · Storybook
 
-⸻
-
-📚 Currently Exploring
+🎯 Current Focus
 
 * Frontend Architecture
 * Design Systems
@@ -60,15 +50,11 @@ Web Component For Study	Lit playground	Lit · Storybook
 * AI Coding
 * Developer Experience (DX)
 
-⸻
-
 📊 Contribution Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinZan&theme=tokyonight" />
 </p>
-
-⸻
 
 📫 Connect
 
@@ -79,4 +65,4 @@ Web Component For Study	Lit playground	Lit · Storybook
 </p>
 <p align="center">
   ✨ Building, Learning and Sharing
-</p>
+</p
