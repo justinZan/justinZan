@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="45" y1="0" x2="1155" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset=".55" stop-color="#10243B"/>
+      <stop offset="1" stop-color="#173A50"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="190" y1="10" x2="940" y2="305" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EE7D8" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#70A7FF" stop-opacity=".02"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#B9D8EA" fill-opacity=".22"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#dots)"/>
+  <ellipse cx="310" cy="280" rx="500" ry="230" fill="url(#glow)"/>
+  <path d="M720 -60C810 38 852 89 974 104C1096 119 1156 83 1262 18V330H650C725 224 762 150 720 -60Z" fill="#09111D" fill-opacity=".42"/>
+  <path d="M845 300C924 203 951 160 1073 147C1126 141 1161 149 1200 161" stroke="#6EE7D8" stroke-opacity=".48" stroke-width="2"/>
+  <path d="M807 300C902 187 947 134 1086 119C1137 113 1171 120 1200 129" stroke="#70A7FF" stroke-opacity=".34" stroke-width="2"/>
+  <circle cx="990" cy="103" r="5" fill="#6EE7D8"/>
+  <circle cx="1076" cy="148" r="4" fill="#70A7FF"/>
+  <text x="82" y="126" fill="#8BE8D7" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+  <text x="78" y="190" fill="#F2F7FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Zan Ding</text>
+  <text x="82" y="231" fill="#C0D0DE" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19" letter-spacing=".5">Frontend engineer · Building useful things for the web</text>
+</svg>
