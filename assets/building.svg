@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" fill="none">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1000" y2="210" gradientUnits="userSpaceOnUse"><stop stop-color="#10182A"/><stop offset="1" stop-color="#122536"/></linearGradient><linearGradient id="line" x1="36" y1="0" x2="958" y2="198" gradientUnits="userSpaceOnUse"><stop stop-color="#5DE3D0"/><stop offset="1" stop-color="#8794FF"/></linearGradient></defs>
+  <rect x="1" y="1" width="998" height="208" rx="22" fill="url(#b)" stroke="#8294BC" stroke-opacity=".24" stroke-width="2"/>
+  <text x="29" y="39" fill="#8DEBDB" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" font-weight="700" letter-spacing="2.5">NOW IN PROGRESS</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+    <rect x="28" y="59" width="294" height="118" rx="16" fill="#17253A" stroke="#59DBCB" stroke-opacity=".45"/>
+    <circle cx="54" cy="87" r="10" fill="#5DE3D0" fill-opacity=".18"/><path d="M50 87h8M54 83v8" stroke="#85F0E0" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="75" y="92" fill="#F0F5FF" font-size="16" font-weight="700">Frontend foundations</text>
+    <text x="48" y="124" fill="#AAB8CF" font-size="12">Vue 3 · React · TypeScript</text>
+    <text x="48" y="151" fill="#65E2D1" font-size="11" font-weight="600">SYSTEMS THAT SCALE ↗</text>
+
+    <rect x="353" y="59" width="294" height="118" rx="16" fill="#17253A" stroke="#8B91FF" stroke-opacity=".45"/>
+    <circle cx="379" cy="87" r="10" fill="#8B91FF" fill-opacity=".18"/><path d="M375 87h8M379 83v8" stroke="#B8BEFF" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="400" y="92" fill="#F0F5FF" font-size="16" font-weight="700">AI agent engineering</text>
+    <text x="373" y="124" fill="#AAB8CF" font-size="12">RAG · Workflows · MCP</text>
+    <text x="373" y="151" fill="#A6ADFF" font-size="11" font-weight="600">LEARN BY BUILDING ↗</text>
+
+    <rect x="678" y="59" width="294" height="118" rx="16" fill="#17253A" stroke="#59DBCB" stroke-opacity=".45"/>
+    <circle cx="704" cy="87" r="10" fill="#5DE3D0" fill-opacity=".18"/><path d="M700 87h8M704 83v8" stroke="#85F0E0" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="725" y="92" fill="#F0F5FF" font-size="16" font-weight="700">Learning experiences</text>
+    <text x="698" y="124" fill="#AAB8CF" font-size="12">English · Frontend study</text>
+    <text x="698" y="151" fill="#65E2D1" font-size="11" font-weight="600">SMALL STEPS, EVERY DAY ↗</text>
+  </g>
+  <path d="M28 193H972" stroke="url(#line)" stroke-opacity=".42"/>
+</svg>

@@ -1,27 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
   <defs>
-    <linearGradient id="bg" x1="45" y1="0" x2="1155" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1220"/>
-      <stop offset=".55" stop-color="#10243B"/>
-      <stop offset="1" stop-color="#173A50"/>
+    <linearGradient id="bg" x1="15" y1="18" x2="1183" y2="327" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080D1A"/><stop offset=".52" stop-color="#111B36"/><stop offset="1" stop-color="#102C3D"/>
     </linearGradient>
-    <linearGradient id="glow" x1="190" y1="10" x2="940" y2="305" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6EE7D8" stop-opacity=".28"/>
-      <stop offset="1" stop-color="#70A7FF" stop-opacity=".02"/>
+    <linearGradient id="stroke" x1="717" y1="10" x2="1119" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#48E6CF"/><stop offset="1" stop-color="#718BFF"/>
     </linearGradient>
-    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="#B9D8EA" fill-opacity=".22"/>
+    <radialGradient id="orb" cx="0" cy="0" r="1" gradientTransform="matrix(267 207 -230 297 886 97)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35D9C4" stop-opacity=".22"/><stop offset="1" stop-color="#4E72FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#B7D0FF" stroke-opacity=".06"/>
+      <circle cx="1" cy="1" r="1" fill="#8EEDE0" fill-opacity=".28"/>
     </pattern>
   </defs>
-  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="24" fill="url(#dots)"/>
-  <ellipse cx="310" cy="280" rx="500" ry="230" fill="url(#glow)"/>
-  <path d="M720 -60C810 38 852 89 974 104C1096 119 1156 83 1262 18V330H650C725 224 762 150 720 -60Z" fill="#09111D" fill-opacity=".42"/>
-  <path d="M845 300C924 203 951 160 1073 147C1126 141 1161 149 1200 161" stroke="#6EE7D8" stroke-opacity=".48" stroke-width="2"/>
-  <path d="M807 300C902 187 947 134 1086 119C1137 113 1171 120 1200 129" stroke="#70A7FF" stroke-opacity=".34" stroke-width="2"/>
-  <circle cx="990" cy="103" r="5" fill="#6EE7D8"/>
-  <circle cx="1076" cy="148" r="4" fill="#70A7FF"/>
-  <text x="82" y="126" fill="#8BE8D7" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" font-weight="700" letter-spacing="4">HELLO, I'M</text>
-  <text x="78" y="190" fill="#F2F7FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Zan Ding</text>
-  <text x="82" y="231" fill="#C0D0DE" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19" letter-spacing=".5">Frontend engineer · Building useful things for the web</text>
+  <rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="26" fill="url(#orb)"/>
+  <path d="M700 365C805 225 819 119 940 72C1045 31 1138 73 1210 120" stroke="url(#stroke)" stroke-opacity=".62" stroke-width="2"/>
+  <path d="M737 367C831 247 858 158 967 118C1061 83 1135 113 1208 157" stroke="url(#stroke)" stroke-opacity=".32" stroke-width="2"/>
+  <path d="M779 364C877 269 895 203 990 165C1083 127 1144 151 1210 191" stroke="#7B8FFF" stroke-opacity=".2" stroke-width="2"/>
+  <circle cx="944" cy="73" r="5" fill="#6EF0D6"/><circle cx="968" cy="118" r="4" fill="#9AABFF"/><circle cx="990" cy="165" r="3" fill="#9AABFF"/>
+  <g opacity=".7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#A8C2E3">
+    <text x="887" y="239">&lt;build /&gt;</text><text x="1028" y="273">{ create }</text>
+  </g>
+  <rect x="66" y="72" width="4" height="178" rx="2" fill="url(#stroke)"/>
+  <text x="91" y="111" fill="#79E8D7" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" font-weight="700" letter-spacing="4">FRONTEND · AI · LEARNING</text>
+  <text x="87" y="180" fill="#F4F7FF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Zan Ding</text>
+  <text x="91" y="220" fill="#C3D0E4" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19">Building useful things for the web.</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="600">
+    <rect x="91" y="247" width="92" height="30" rx="15" fill="#73E8D5" fill-opacity=".12" stroke="#73E8D5" stroke-opacity=".48"/><text x="113" y="267" fill="#9BF1E2">Vue · React</text>
+    <rect x="194" y="247" width="103" height="30" rx="15" fill="#83A0FF" fill-opacity=".1" stroke="#83A0FF" stroke-opacity=".48"/><text x="213" y="267" fill="#B6C5FF">TypeScript</text>
+    <rect x="308" y="247" width="107" height="30" rx="15" fill="#83A0FF" fill-opacity=".1" stroke="#83A0FF" stroke-opacity=".48"/><text x="331" y="267" fill="#B6C5FF">AI Agents</text>
+  </g>
 </svg>

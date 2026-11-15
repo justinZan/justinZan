@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="156" viewBox="0 0 1000 156" fill="none">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1000" y2="156" gradientUnits="userSpaceOnUse"><stop stop-color="#10182A"/><stop offset="1" stop-color="#111F31"/></linearGradient>
+    <linearGradient id="edge" x1="20" y1="12" x2="971" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#64E6D5" stop-opacity=".55"/><stop offset="1" stop-color="#7F91FF" stop-opacity=".3"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="154" rx="20" fill="url(#panel)" stroke="url(#edge)" stroke-width="2"/>
+  <text x="28" y="37" fill="#8DEBDB" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" font-weight="700" letter-spacing="2.5">TOOLKIT</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" font-weight="600">
+    <g><rect x="27" y="53" width="147" height="37" rx="12" fill="#182840" stroke="#60D9CF" stroke-opacity=".52"/><circle cx="47" cy="71.5" r="6" fill="#61D8CF"/><text x="61" y="77" fill="#E3F4F5">TypeScript</text></g>
+    <g><rect x="185" y="53" width="130" height="37" rx="12" fill="#182840" stroke="#60D9CF" stroke-opacity=".52"/><circle cx="205" cy="71.5" r="6" fill="#48C7B8"/><text x="219" y="77" fill="#E3F4F5">JavaScript</text></g>
+    <g><rect x="326" y="53" width="103" height="37" rx="12" fill="#182840" stroke="#60D9CF" stroke-opacity=".52"/><circle cx="346" cy="71.5" r="6" fill="#42B883"/><text x="360" y="77" fill="#E3F4F5">Vue</text></g>
+    <g><rect x="440" y="53" width="112" height="37" rx="12" fill="#182840" stroke="#60D9CF" stroke-opacity=".52"/><circle cx="460" cy="71.5" r="6" fill="#8A78FF"/><text x="474" y="77" fill="#E3F4F5">React</text></g>
+    <g><rect x="563" y="53" width="122" height="37" rx="12" fill="#182840" stroke="#7B8BFF" stroke-opacity=".52"/><circle cx="583" cy="71.5" r="6" fill="#FFD45C"/><text x="597" y="77" fill="#E3F4F5">Python</text></g>
+    <g><rect x="696" y="53" width="103" height="37" rx="12" fill="#182840" stroke="#7B8BFF" stroke-opacity=".52"/><circle cx="716" cy="71.5" r="6" fill="#E76F3C"/><text x="730" y="77" fill="#E3F4F5">Java</text></g>
+    <g><rect x="810" y="53" width="162" height="37" rx="12" fill="#182840" stroke="#7B8BFF" stroke-opacity=".52"/><circle cx="830" cy="71.5" r="6" fill="#7B8BFF"/><text x="844" y="77" fill="#E3F4F5">Node · Vite · Git</text></g>
+  </g>
+  <path d="M28 111H972" stroke="#91A9D6" stroke-opacity=".15"/>
+  <text x="28" y="135" fill="#92A4BF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" letter-spacing=".5">Interfaces</text>
+  <text x="114" y="135" fill="#5AE0CD" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">→</text>
+  <text x="132" y="135" fill="#92A4BF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" letter-spacing=".5">Systems</text>
+  <text x="207" y="135" fill="#5AE0CD" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">→</text>
+  <text x="225" y="135" fill="#92A4BF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" letter-spacing=".5">Products</text>
+</svg>
